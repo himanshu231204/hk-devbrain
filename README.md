@@ -281,3 +281,12 @@ Give a ⭐️ if this project helped you!
 **Built with ❤️ by Himanshu Kumar (HK)**
 
 *HK-DevBrain v1.0 - Your intelligent coding companion*
+
+<!-- gumroad-footer -->
+---
+
+### More free resources
+
+I share free visual notes, agent skills and guides on AI agents, Google ADK, RAG and LLMs.
+
+[![Gumroad](https://img.shields.io/badge/Gumroad-free_notes_%26_skills-ff90e8?style=flat-square&logo=gumroad&logoColor=white)](https://himanshu231204.gumroad.com) → **[himanshu231204.gumroad.com](https://himanshu231204.gumroad.com)**
